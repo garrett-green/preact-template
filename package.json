@@ -9,7 +9,9 @@
     "typescript": "^4.0.5"
   },
   "description": "Starter for preact projects",
-  "eslintIgnore": ["dist/"],
+  "eslintIgnore": [
+    "dist/"
+  ],
   "license": "MIT",
   "main": "index.js",
   "scripts": {
